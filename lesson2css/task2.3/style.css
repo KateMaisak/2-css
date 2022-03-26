@@ -1,0 +1,46 @@
+body{
+    background-image: url(./images/bg.jpeg);
+    background-size: cover;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+h1{
+    background-color: rgba(110, 106, 106, 0.473);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 550;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    
+}
+h2{
+    color: #ffae00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+a{
+    color: #d30606f1;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: right;
+}
+div{
+    border: solid 2px;
+    border-radius: 15px 0px 15px 0px;
+    border-color: #807b7b;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0px 20px 20px 15px;
+}
+img{
+    width: 180px;
+}
+div div{
+    padding: 0px;
+    border: none;
+    text-align: right;
+}
